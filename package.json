@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Simple web app to retrieve nodejs info and test nodejs functionality in azure.",
   "main": "server.js",
-  "engines" : "{"node":"0.8.x || 0.10.x"}",
+  "engines": {
+    "node": "0.8.x || 0.10.x"
+  },
   "scripts": {
     "test": "",
     "start": "node server.js"
@@ -20,5 +22,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/Cecildt/nodeazureinfo/issues"
+  },
+  "dependencies": {
+    "azure": "~0.7.13"
   }
 }
