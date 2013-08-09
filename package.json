@@ -1,0 +1,23 @@
+{
+  "name": "nodeazureinfo",
+  "version": "0.0.1",
+  "description": "Simple web app to retrieve nodejs info and test nodejs functionality in azure.",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cecildt/nodeazureinfo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "azure"
+  ],
+  "author": "Cecil du Toit",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Cecildt/nodeazureinfo/issues"
+  }
+}
