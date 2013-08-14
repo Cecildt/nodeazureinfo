@@ -10,7 +10,7 @@ node_env: production
 # nodeProcessCommandLine - command line starting the node executable; in shared
 # hosting environments this setting would typically be locked at the machine scope.
 
-nodeProcessCommandLine: "D:\home\site\wwwroot\bin\v0.10.15\node.exe"
+nodeProcessCommandLine: "D:\home\site\wwwroot\bin\v0.11.5\node.exe"
 
 # interceptor - fully qualified file name of a node.js application that will run instead of an actual application
 # the request targets; the fully qualified file name of the actual application file is provided as the first parameter
