@@ -24,6 +24,6 @@
     "url": "https://github.com/Cecildt/nodeazureinfo/issues"
   },
   "dependencies": {
-    "azure": "~0.7.13"
+    "azure": "~0.7.14"
   }
 }
